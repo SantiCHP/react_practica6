@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/SantiCHP/react_practica6/static/css/main.127b7b45.chunk.css",
-    "main.js": "/SantiCHP/react_practica6/static/js/main.fabde7c1.chunk.js",
-    "main.js.map": "/SantiCHP/react_practica6/static/js/main.fabde7c1.chunk.js.map",
-    "runtime-main.js": "/SantiCHP/react_practica6/static/js/runtime-main.76d7db6d.js",
-    "runtime-main.js.map": "/SantiCHP/react_practica6/static/js/runtime-main.76d7db6d.js.map",
-    "static/js/2.c5182cad.chunk.js": "/SantiCHP/react_practica6/static/js/2.c5182cad.chunk.js",
-    "static/js/2.c5182cad.chunk.js.map": "/SantiCHP/react_practica6/static/js/2.c5182cad.chunk.js.map",
-    "index.html": "/SantiCHP/react_practica6/index.html",
-    "static/css/main.127b7b45.chunk.css.map": "/SantiCHP/react_practica6/static/css/main.127b7b45.chunk.css.map",
-    "static/js/2.c5182cad.chunk.js.LICENSE.txt": "/SantiCHP/react_practica6/static/js/2.c5182cad.chunk.js.LICENSE.txt"
+    "main.css": "/react_practica6/static/css/main.127b7b45.chunk.css",
+    "main.js": "/react_practica6/static/js/main.fabde7c1.chunk.js",
+    "main.js.map": "/react_practica6/static/js/main.fabde7c1.chunk.js.map",
+    "runtime-main.js": "/react_practica6/static/js/runtime-main.c60328bd.js",
+    "runtime-main.js.map": "/react_practica6/static/js/runtime-main.c60328bd.js.map",
+    "static/js/2.c5182cad.chunk.js": "/react_practica6/static/js/2.c5182cad.chunk.js",
+    "static/js/2.c5182cad.chunk.js.map": "/react_practica6/static/js/2.c5182cad.chunk.js.map",
+    "index.html": "/react_practica6/index.html",
+    "static/css/main.127b7b45.chunk.css.map": "/react_practica6/static/css/main.127b7b45.chunk.css.map",
+    "static/js/2.c5182cad.chunk.js.LICENSE.txt": "/react_practica6/static/js/2.c5182cad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.76d7db6d.js",
+    "static/js/runtime-main.c60328bd.js",
     "static/js/2.c5182cad.chunk.js",
     "static/css/main.127b7b45.chunk.css",
     "static/js/main.fabde7c1.chunk.js"
