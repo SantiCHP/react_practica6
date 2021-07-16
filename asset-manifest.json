@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.127b7b45.chunk.css",
-    "main.js": "/static/js/main.fabde7c1.chunk.js",
-    "main.js.map": "/static/js/main.fabde7c1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.f7ea9bc5.js",
-    "runtime-main.js.map": "/static/js/runtime-main.f7ea9bc5.js.map",
-    "static/js/2.c5182cad.chunk.js": "/static/js/2.c5182cad.chunk.js",
-    "static/js/2.c5182cad.chunk.js.map": "/static/js/2.c5182cad.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/main.127b7b45.chunk.css.map": "/static/css/main.127b7b45.chunk.css.map",
-    "static/js/2.c5182cad.chunk.js.LICENSE.txt": "/static/js/2.c5182cad.chunk.js.LICENSE.txt"
+    "main.css": "/SantiCHP/react_practica6/static/css/main.127b7b45.chunk.css",
+    "main.js": "/SantiCHP/react_practica6/static/js/main.fabde7c1.chunk.js",
+    "main.js.map": "/SantiCHP/react_practica6/static/js/main.fabde7c1.chunk.js.map",
+    "runtime-main.js": "/SantiCHP/react_practica6/static/js/runtime-main.76d7db6d.js",
+    "runtime-main.js.map": "/SantiCHP/react_practica6/static/js/runtime-main.76d7db6d.js.map",
+    "static/js/2.c5182cad.chunk.js": "/SantiCHP/react_practica6/static/js/2.c5182cad.chunk.js",
+    "static/js/2.c5182cad.chunk.js.map": "/SantiCHP/react_practica6/static/js/2.c5182cad.chunk.js.map",
+    "index.html": "/SantiCHP/react_practica6/index.html",
+    "static/css/main.127b7b45.chunk.css.map": "/SantiCHP/react_practica6/static/css/main.127b7b45.chunk.css.map",
+    "static/js/2.c5182cad.chunk.js.LICENSE.txt": "/SantiCHP/react_practica6/static/js/2.c5182cad.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f7ea9bc5.js",
+    "static/js/runtime-main.76d7db6d.js",
     "static/js/2.c5182cad.chunk.js",
     "static/css/main.127b7b45.chunk.css",
     "static/js/main.fabde7c1.chunk.js"
